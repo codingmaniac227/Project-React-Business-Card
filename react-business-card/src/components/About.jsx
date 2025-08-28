@@ -1,16 +1,12 @@
+import './About.css'
+
 export default function About() {
     return (
-        <>
-            <img src="./assets/headshot.jpg"/>
-            <header className="header">
-                <h1>Marquise Davis</h1>
-                <h2>Fullstack Developer</h2>
-                <h3>North Carolina</h3>
-                <nav>
-                    <a></a>
-                    <a></a>
-                </nav>
-            </header>
+        <>  
+            <section className="about-section">
+                <h2 className='about-title'>About</h2>
+                <p className='about-desc'>I am a Fullstack developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</p>
+            </section>
         </>
     )
 }
