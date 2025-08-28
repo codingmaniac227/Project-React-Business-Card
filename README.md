@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/codingmaniac227/react-business-card">
+  <a href="https://github.com/codingmaniac227/react-business-card" target="_blank" rel="noopener">
     <img src="src/assets/headshot.jpg" alt="Logo" width="90" height="90" style="border-radius:50%">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     A clean, responsive business card built with React + Vite.
     <br />
-    <a href="https://github.com/codingmaniac227/react-business-card"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/codingmaniac227/react-business-card" target="_blank" rel="noopener"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://react-business-card-demo.netlify.app">View Demo</a>
+    <a href="https://react-business-card-demo.netlify.app" target="_blank" rel="noopener">View Demo</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-business-card/issues">Report Bug</a>
+    <a href="https://github.com/codingmaniac227/react-business-card/issues" target="_blank" rel="noopener">Report Bug</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-business-card/issues">Request Feature</a>
+    <a href="https://github.com/codingmaniac227/react-business-card/issues" target="_blank" rel="noopener">Request Feature</a>
   </p>
 </div>
 
@@ -52,7 +52,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="src/assets/screenshot.png" alt="Business Card Screenshot" width="420">
+  <img src="src/screenshot.png" alt="Business Card Screenshot" width="420">
 </p>
 
 This is a simple, accessible “business card” site. It features:
@@ -92,10 +92,8 @@ npm install npm@latest -g
 ```
 
 ### Installation
-1. Clone the repo
-   ```sh
-   git clone https://github.com/codingmaniac227/react-business-card.git
-   ```
+1. Clone the repo  
+   <a href="https://github.com/codingmaniac227/react-business-card" target="_blank" rel="noopener"><code>git clone https://github.com/codingmaniac227/react-business-card.git</code></a>
 2. Install deps
    ```sh
    npm install
@@ -125,10 +123,10 @@ src/
 - Update copy in:
   - `Info.jsx` (name, title, location, links)
   - `About.jsx`, `Interests.jsx`
-- To open links in a new tab, add `target="_blank" rel="noopener noreferrer"` on your `<a>` tags.  
+- To open links in a new tab, add `target="_blank" rel="noopener"` on your `<a>` tags.  
 - Deploy anywhere (e.g., Netlify). No runtime server required.
 
-**Live Demo:** https://react-business-card-demo.netlify.app
+**Live Demo:** <a href="https://react-business-card-demo.netlify.app" target="_blank" rel="noopener">https://react-business-card-demo.netlify.app</a>
 
 <p align="right">(<a href="#react-business-card">back to top</a>)</p>
 
@@ -162,8 +160,9 @@ Contributions are welcome!
 
 ## Contact
 
-Marquise Davis – [@FullStackDemon](https://instagram.com/FullStackDemon) – codingmaniac227@gmail.com  
-Project Link: https://github.com/codingmaniac227/react-business-card
+Marquise Davis – <a href="https://instagram.com/FullStackDemon" target="_blank" rel="noopener">@FullStackDemon</a>
+codingmaniac227@gmail.com  
+Project Link: <a href="https://github.com/codingmaniac227/react-business-card" target="_blank" rel="noopener">https://github.com/codingmaniac227/react-business-card</a>
 
 <p align="right">(<a href="#react-business-card">back to top</a>)</p>
 
