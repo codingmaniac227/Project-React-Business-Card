@@ -1,4 +1,18 @@
 footer {
     background-color: #161619;
-    
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-icon-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
 }

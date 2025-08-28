@@ -7,13 +7,13 @@ export default function Footer() {
         <>
             <footer>
 
-                <ul>
-                    <li>
+                <ul className='footer-icon-holder'>
+                    <li className='footer-icon-element'>
                         <a href="https://www.instagram.com/fullstackdemon/" aria-label='Instagram'>
                             <img src={instagramIcon} alt='' aria-hidden="true" className='icon' />
                         </a>
                     </li>
-                    <li>
+                    <li className='footer-icon-element'>
                         <a href="https://github.com/codingmaniac227" aria-label='Github'>
                             <img src={githubIcon} alt='' aria-hidden="true" className='icon' />
                         </a>
