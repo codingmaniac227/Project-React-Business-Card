@@ -24,9 +24,9 @@
     <br />
     <a href="https://react-business-card-demo.netlify.app" target="_blank" rel="noopener">View Demo</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-business-card/issues" target="_blank" rel="noopener">Report Bug</a>
+    <a href="https://github.com/codingmaniac227/react-business-card/issues/new?template=bug_report.yml&labels=bug" target="_blank" rel="noopener">Report Bug</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-business-card/issues" target="_blank" rel="noopener">Request Feature</a>
+    <a href="https://github.com/codingmaniac227/react-business-card/issues/new?template=feature_request.yml&labels=enhancement" target="_blank" rel="noopener">Request Feature</a>
   </p>
 </div>
 
@@ -52,7 +52,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="src/screenshot.png" alt="Business Card Screenshot" width="420">
+  <img src="src/assets/screenshot.png" alt="Business Card Screenshot" width="420">
 </p>
 
 This is a simple, accessible “business card” site. It features:
@@ -92,8 +92,10 @@ npm install npm@latest -g
 ```
 
 ### Installation
-1. Clone the repo  
-   <a href="https://github.com/codingmaniac227/react-business-card" target="_blank" rel="noopener"><code>git clone https://github.com/codingmaniac227/react-business-card.git</code></a>
+1. Clone the repo
+    ```sh
+    git clone https://github.com/codingmaniac227/react-business-card.git
+    ```
 2. Install deps
    ```sh
    npm install
