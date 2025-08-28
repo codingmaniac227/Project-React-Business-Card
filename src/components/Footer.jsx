@@ -9,12 +9,12 @@ export default function Footer() {
 
                 <ul className='footer-icon-holder'>
                     <li className='footer-icon-element'>
-                        <a href="https://www.instagram.com/fullstackdemon/" aria-label='Instagram'>
+                        <a href="https://www.instagram.com/fullstackdemon/" aria-label='Instagram' target="_blank" rel="noopener noreferrer">
                             <img src={instagramIcon} alt='' aria-hidden="true" className='icon' />
                         </a>
                     </li>
                     <li className='footer-icon-element'>
-                        <a href="https://github.com/codingmaniac227" aria-label='Github'>
+                        <a href="https://github.com/codingmaniac227" aria-label='Github' target="_blank" rel="noopener noreferrer">
                             <img src={githubIcon} alt='' aria-hidden="true" className='icon' />
                         </a>
                     </li>

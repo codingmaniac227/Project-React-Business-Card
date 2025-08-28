@@ -15,13 +15,13 @@ export default function Info() {
             <nav aria-label="Contact links">
                 <ul className='contact-link-elements'>
                     <li>
-                        <a href="mailto:codingmaniac227@gmail.com" aria-label="Email" className='email-button'>
+                        <a href="mailto:codingmaniac227@gmail.com" aria-label="Email" className='email-button' target="_blank" rel="noopener noreferrer">
                             <img src={emailIcon} alt="" aria-hidden="true" className="icon" />
                             <span>Email</span>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/marquise-davis/" aria-label="LinkedIn" className='linkedin-button'>
+                        <a href="https://www.linkedin.com/in/marquise-davis/" aria-label="LinkedIn" className='linkedin-button' target="_blank" rel="noopener noreferrer">
                             <img src={linkedInIcon} alt="" aria-hidden="true" className="icon" />
                             <span>LinkedIn</span>
                         </a>
