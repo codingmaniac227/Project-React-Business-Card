@@ -24,9 +24,9 @@
     <br />
     <a href="https://react-business-card-demo.netlify.app" target="_blank" rel="noopener">View Demo</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-business-card/issues/new?template=bug_report.yml&labels=bug" target="_blank" rel="noopener">Report Bug</a>
+    <a href="https://github.com/codingmaniac227/Project-React-Business-Card/issues/new?template=bug_report.yml&labels=bug" target="_blank" rel="noopener">Report Bug</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-business-card/issues/new?template=feature_request.yml&labels=enhancement" target="_blank" rel="noopener">Request Feature</a>
+    <a href="https://github.com/codingmaniac227/Project-React-Business-Card/issues/new?template=feature_request.yml&labels=enhancement" target="_blank" rel="noopener">Request Feature</a>
   </p>
 </div>
 
