@@ -52,7 +52,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="src/screenshot.png" alt="Business Card Screenshot" width="420">
+  <img src="src/assets/screenshot.png" alt="Business Card Screenshot" width="420">
 </p>
 
 This is a simple, accessible “business card” site. It features:
