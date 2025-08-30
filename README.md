@@ -58,7 +58,7 @@
 This is a simple, accessible “business card” site. It features:
 
 - A full-bleed profile image with rounded-card clipping.  
-- Semantic layout (`header`, `main`, `section`, `footer`) for SEO and screen readers.  
+- Semantic layout (`header`, `main`, `section`, `footer`) for SEO and accessibility.  
 - Email + LinkedIn buttons with icon+label alignment.  
 - Footer social icons with tight hoverable hitboxes.  
 - Clean centering and a contained text column inside the card.
